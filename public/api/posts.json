@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "UX review presentations",
+    "description": "How do you create compelling presentations that wow your colleagues and impress your managers?",
+    "tags": ["Design", "Research", "Presentation"],
+    "date": "Sunday, 1 Jan 2023",
+    "imageUrl": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 2,
+    "title": "Migrating to Linear 101",
+    "description": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started...",
+    "tags": ["Design", "Research"],
+    "date": "Sunday, 1 Jan 2023",
+    "imageUrl": "https://via.placeholder.com/300x200"
+  }
+]

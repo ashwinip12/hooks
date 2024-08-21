@@ -1,0 +1,24 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.dark-mode {
+  background-color: #1f1f1f;
+  color: #f0f0f0;
+}
+
+.ant-layout-header {
+  background-color: #001529;
+}
+
+.ant-layout-content {
+  background-color: #fff;
+}
+
+.dark-mode .ant-layout-header {
+  background-color: #141414;
+}
+
+.dark-mode .ant-layout-content {
+  background-color: #2a2a2a;
+}
